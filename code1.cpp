@@ -21,7 +21,7 @@ int main(int argc, char const *argv[])
 	{
 		cout << "ini bilangan positif";
 	}
-	else if()
+	else
 	{
 		cout << "Ini huruf lo bukan angka eeeee";
 	}
