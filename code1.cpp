@@ -9,19 +9,19 @@ int main(int argc, char const *argv[])
 	cout << "masukkan angka : " ;
 	cin >> l ;
 
-	if (l == 0)
+	while (l == 0)
 	{
 		cout << "Ini bilangan Nol";
 	}
-	else if (l < 0)
+	while(l < 0)
 	{
 		cout << "ini bilangan negatif";
 	}
-	else if (l > 0 )
+	while (l > 0 )
 	{
 		cout << "ini bilangan positif";
 	}
-	else
+	while
 	{
 		cout << "Ini huruf lo bukan angka eeeee";
 	}
